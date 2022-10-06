@@ -20,4 +20,3 @@ if result == -1:
     print("Item not found")
 else:
     print("Item found at index: ", result)
-
